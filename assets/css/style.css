@@ -235,7 +235,6 @@ form{
     .instafeed{
         display: grid;
         grid-template-columns: repeat(2,1fr);
-        grid-template-rows: repeat(2,1fr);
     }
     .h3{
         grid-template-columns: 1/4;
