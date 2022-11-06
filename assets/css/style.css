@@ -169,7 +169,6 @@ header{
 }
 .card-body1:hover{
     background-color: #fc9701;
-    /* color: white; */
     transition: ease-in all 0.7s;
 }
 .h1{
@@ -205,7 +204,6 @@ textarea{
     background-color: black;
     color: white;
     display: inline-block;
-    /* margin-top: 30px; */
     width: 270px;
     height: 30px;
     margin-left: 40px;
@@ -216,13 +214,12 @@ textarea{
 }
 .send:hover{
     background-color: #fc9701;
-    
     transition: ease-in all 0.7s;}
     footer{
         color: #fff;
         background-color: black;
         height: 250px;
-        /* border-top:2px solid gray ; */
+        
     }
     .footer{
         width: 960px;
@@ -359,5 +356,5 @@ textarea{
         }
         .ourcompany img {
             width: 380px;
-            /* margin-right: 10px; */
-        } */
+            /* margin-right: 10px;} */
+        
